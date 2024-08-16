@@ -1,0 +1,25 @@
+
+#Nameje{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: hsla(0, 0%, 100%, 0.845); 
+    padding: 0px 20px 20px 20px;
+    font-family:"Inter", sans-serif;
+}
+#Nameje h{
+    font-size: 27px;
+    font-weight: normal;
+}
+#Nameje span{
+    color:  hsl(75, 94%, 57%);
+    justify-content: center;
+    margin-bottom: 9px;
+    margin-top: 5px;
+    font-size: 16px;
+   }
+
+#Nameje p{
+    margin: 9px 0px 0px 10px;
+    font-size: 14px;
+}
